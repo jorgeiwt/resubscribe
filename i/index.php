@@ -33,13 +33,13 @@
       <p>Hi, this is Ramit Sethi, author of I Will Teach You to be Rich/ironer extraordinaire. We saw your request to unsubscribe and my team handled it -- you’ll no longer receive emails from us.</p>
       <p>Now, I know my material isn’t right for everyone. I write really long emails and I’m told I should stop using profanity (yeah right).</p>
       <p>But before you go, I want to show you some of my best posts you might not have seen.</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/automate-your-personal-finances/" target="_blank"></a>My guide to automating your personal finances</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/blog/investing-in-gold/" target="_blank"></a>This guy is going to regret his life in 15 years (and how you can avoid the same investing mistake)</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/how-to-start-your-own-business/" target="_blank"></a>How to start your own business</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/blog/how-to-raise-your-rates/" target="_blank"></a>Video: how to raise your consulting rates</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/find-your-dream-job/" target="_blank"></a>How to find your Dream Job</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/blog/bj-fogg-interview-persuasion-psychology/" target="_blank"></a>Mastering your inner psychology: a 1-hr with BJ Fogg</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/blog/iwt-live-qa-on-fitness-from-master-trainers-right-now/" target="_blank"></a>Live Q&amp;A on fitness from master trainers</p>
+      <p><a href="http://www.iwillteachyoutoberich.com/automate-your-personal-finances/" target="_blank">My guide to automating your personal finances</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/blog/investing-in-gold/" target="_blank">This guy is going to regret his life in 15 years (and how you can avoid the same investing mistake</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/how-to-start-your-own-business/" target="_blank">How to start your own business</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/blog/how-to-raise-your-rates/" target="_blank">Video: how to raise your consulting rates</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/find-your-dream-job/" target="_blank">How to find your Dream Job</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/blog/bj-fogg-interview-persuasion-psychology/" target="_blank">Mastering your inner psychology: a 1-hr with BJ Fogg</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/blog/iwt-live-qa-on-fitness-from-master-trainers-right-now/" target="_blank">Live Q&amp;A on fitness from master trainers</a></p>
       <p>Take a look at the free material above. If you like what you see, I’d welcome you to re-subscribe to my list using the button above.</p>
       <p><strong>&mdash;Ramit</strong></p>
     </div>

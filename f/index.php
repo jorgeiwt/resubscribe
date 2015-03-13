@@ -33,11 +33,11 @@
       <p>Hi, Ramit Sethi here from I Will Teach You to be Rich. My team took care of your request to unsubscribe from my list.</p>
       <p>Now, if you really want to leave, I won’t stop you. I know my material isn’t right for everyone -- and the fewer crazy email responses I get, the better. Seriously, you guys want to make me kill myself sometimes.</p>
       <p>BUT...if your goal is to lead a Rich Life (whether it’s earning more money, starting an online business, finding a Dream Job, or something else), I can help.</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/make-extra-money/" target="_blank"></a>How to make extra money</p>
-       <p><a href="http://www.iwillteachyoutoberich.com/how-to-start-your-own-business/" target="_blank"></a>How to start your own business</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/find-your-dream-job/" target="_blank"></a>How to find your Dream Job</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/blog/iwt-live-qa-on-fitness-from-master-trainers-right-now/" target="_blank"></a>Live Q&amp;A on fitness from master trainers</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/blog/bj-fogg-interview-persuasion-psychology/" target="_blank"></a>Mastering your inner psychology: a 1-hr with BJ Fogg</p>
+      <p><a href="http://www.iwillteachyoutoberich.com/make-extra-money/" target="_blank">How to make extra money</a></p>
+       <p><a href="http://www.iwillteachyoutoberich.com/how-to-start-your-own-business/" target="_blank">How to start your own business</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/find-your-dream-job/" target="_blank">How to find your Dream Job</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/blog/iwt-live-qa-on-fitness-from-master-trainers-right-now/" target="_blank">Live Q&amp;A on fitness from master trainers</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/blog/bj-fogg-interview-persuasion-psychology/" target="_blank">Mastering your inner psychology: a 1-hr with BJ Fogg</a></p>
       <p>Take a look at the free material above. If you like what you see, I’d welcome you to re-subscribe to my list using the button above.</p>
       <p><strong>&mdash;Ramit</strong></p>
     </div>

@@ -32,10 +32,10 @@
       </div>
       <p>Hi, this is Ramit Sethi from I Will Teach You to be Rich. We took care of your request to unsubscribe. You’ll no longer receive emails from me or my team.</p>
       <p>Before you you go for good, I want to give you some of our best material you may not have seen. In many cases, we’ve spent YEARS researching, crafting, and writing these for you. If implemented, they can make a huge difference in your life.</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/make-extra-money/" target="_blank"></a>How to make extra money</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/find-your-dream-job/" target="_blank"></a>How to find your Dream Job</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/blog/iwt-live-qa-on-fitness-from-master-trainers-right-now/" target="_blank"></a>Live Q&amp;A on fitness from master trainers</p>
-      <p><a href="http://www.iwillteachyoutoberich.com/how-to-start-your-own-business/" target="_blank"></a>How to start your own business</p>
+      <p><a href="http://www.iwillteachyoutoberich.com/make-extra-money/" target="_blank">How to make extra money</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/find-your-dream-job/" target="_blank">How to find your Dream Job</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/blog/iwt-live-qa-on-fitness-from-master-trainers-right-now/" target="_blank">Live Q&amp;A on fitness from master trainers</a></p>
+      <p><a href="http://www.iwillteachyoutoberich.com/how-to-start-your-own-business/" target="_blank">How to start your own business</a></p>
       <p>Take a look at the free material above. If you like what you see, I’d welcome you to re-subscribe to my list using the  button above.</p>
       <p><strong>&mdash;Ramit</strong></p>
     </div>
